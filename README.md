@@ -1,3 +1,3 @@
 ## Block 27
 
-### Deploy link:
+### Deploy link: https://block27-equanimity.netlify.app
