@@ -29,7 +29,7 @@ export default function ShowSuccess({ success, username }) {
                     as="h3"
                     className="text-base font-semibold text-gray-900"
                   >
-                    "Success," {username}
+                    Successful login, {username}!
                   </DialogTitle>
                   <div className="mt-2">
                     <p className="text-sm text-gray-500">{success}</p>
